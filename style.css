@@ -173,8 +173,9 @@ footer{
     display: flex;
     justify-content: space-around;
     background-color: #000000;
+    height: 470px;
     color: #fff;
-    padding: 50px;
+    padding: 60px 100px;
     line-height: 30px;
 }
 
@@ -189,4 +190,14 @@ footer a{
     color: #ffffff;
 }
 
+.footer-5{
+    font-size: larger;
+   margin: 200px 0px;
+}
+
+.footer-5 img{
+        position: relative;
+        right: 10px;
+
+}
 
